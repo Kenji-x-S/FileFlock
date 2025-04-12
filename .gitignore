@@ -1,0 +1,22 @@
+# Ignore the .vscode folder (VS Code settings)
+.vscode/
+
+# Ignore any executable files
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Ignore build folder contents but not the build folder itself
+build/*
+!build/
+
+# Ignore contents inside the data folder but not the data folder itself
+data/*
+!data/
+
+# You can also ignore any log or temporary files
+*.log
+*.tmp
