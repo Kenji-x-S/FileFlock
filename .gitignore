@@ -20,3 +20,5 @@ data/*
 # You can also ignore any log or temporary files
 *.log
 *.tmp
+
+vcpkg/

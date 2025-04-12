@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(TorrentLite VERSION 0.1 LANGUAGES CXX)
+project(FileFlock VERSION 0.1 LANGUAGES CXX)
 
 # ─── C++ STANDARD ─────────────────────────────────────────────────────────────
 set(CMAKE_CXX_STANDARD 17)

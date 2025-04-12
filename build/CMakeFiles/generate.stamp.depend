@@ -1,6 +1,7 @@
 # CMake generation dependency list for this directory.
 C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDependentOption.cmake
 C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake
 C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake
 C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake
@@ -34,3 +35,5 @@ D:/Coding/Vs Code Projects/FileFlock/CMakeLists.txt
 D:/Coding/Vs Code Projects/FileFlock/build/CMakeFiles/4.0.1/CMakeCXXCompiler.cmake
 D:/Coding/Vs Code Projects/FileFlock/build/CMakeFiles/4.0.1/CMakeRCCompiler.cmake
 D:/Coding/Vs Code Projects/FileFlock/build/CMakeFiles/4.0.1/CMakeSystem.cmake
+D:/Coding/Vs Code Projects/FileFlock/vcpkg/installed/x64-windows/share/openssl/vcpkg-cmake-wrapper.cmake
+D:/Coding/Vs Code Projects/FileFlock/vcpkg/scripts/buildsystems/vcpkg.cmake
